@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1829464849
+    locked: 0
+  - name: Foreground
+    uniqueID: 597667635
+    locked: 0
+  - name: Details
+    uniqueID: 2952952253
+    locked: 0
+  - name: Player
+    uniqueID: 1089200207
+    locked: 0
+  - name: Bushes
+    uniqueID: 3312044655
+    locked: 0
+  - name: Enemy
+    uniqueID: 4107682901
+    locked: 0
+  m_RenderingLayers:
+  - Default

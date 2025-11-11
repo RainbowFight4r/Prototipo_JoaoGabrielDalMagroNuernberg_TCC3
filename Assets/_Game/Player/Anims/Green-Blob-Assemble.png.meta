@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: 9b234db299c95d5439fc2888e3de3707
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1507837561669477049
+    second: Green-Blob-Assemble_0
+  - first:
+      213: -1434462639736572442
+    second: Green-Blob-Assemble_1
+  - first:
+      213: -998998059115274104
+    second: Green-Blob-Assemble_2
+  - first:
+      213: 8895501754535276305
+    second: Green-Blob-Assemble_3
+  - first:
+      213: 5835824807891706602
+    second: Green-Blob-Assemble_4
+  - first:
+      213: -4320397380102260333
+    second: Green-Blob-Assemble_5
+  - first:
+      213: -312736063868421669
+    second: Green-Blob-Assemble_6
+  - first:
+      213: 8371219142252035562
+    second: Green-Blob-Assemble_7
+  - first:
+      213: -2435111413962699947
+    second: Green-Blob-Assemble_8
+  - first:
+      213: -3264949208757655229
+    second: Green-Blob-Assemble_9
+  - first:
+      213: -6022259885123758348
+    second: Green-Blob-Assemble_10
+  - first:
+      213: 3535522751539094780
+    second: Green-Blob-Assemble_11
+  - first:
+      213: -1314793125837414440
+    second: Green-Blob-Assemble_12
+  - first:
+      213: -6143961827764422040
+    second: Green-Blob-Assemble_13
+  - first:
+      213: -6504688167013111422
+    second: Green-Blob-Assemble_14
+  - first:
+      213: 1504637027462004417
+    second: Green-Blob-Assemble_15
+  - first:
+      213: -1611300931657078179
+    second: Green-Blob-Assemble_16
+  - first:
+      213: 2963446097941686652
+    second: Green-Blob-Assemble_17
+  - first:
+      213: -2808388099449332721
+    second: Green-Blob-Assemble_18
+  - first:
+      213: -4001467908104406243
+    second: Green-Blob-Assemble_19
+  - first:
+      213: -1640042976234518855
+    second: Green-Blob-Assemble_20
+  - first:
+      213: -531515325707976747
+    second: Green-Blob-Assemble_21
+  - first:
+      213: -8566270513733581511
+    second: Green-Blob-Assemble_22
+  - first:
+      213: -3741501568949624777
+    second: Green-Blob-Assemble_23
+  - first:
+      213: -8927128621302012129
+    second: Green-Blob-Assemble_24
+  - first:
+      213: 6138366138955033614
+    second: Green-Blob-Assemble_25
+  - first:
+      213: -516343381670197990
+    second: Green-Blob-Assemble_26
+  - first:
+      213: 8681430133426380626
+    second: Green-Blob-Assemble_27
+  - first:
+      213: -7572957525274988975
+    second: Green-Blob-Assemble_28
+  - first:
+      213: -5757248887912333161
+    second: Green-Blob-Assemble_29
+  - first:
+      213: 2668016011147109993
+    second: Green-Blob-Assemble_30
+  - first:
+      213: -7273720713811917870
+    second: Green-Blob-Assemble_31
+  - first:
+      213: 197722775001433247
+    second: Green-Blob-Assemble_32
+  - first:
+      213: -3526698491820818048
+    second: Green-Blob-Assemble_33
+  - first:
+      213: 1400064081428389700
+    second: Green-Blob-Assemble_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 37
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be80a86ee6349264c9e0c38966fc7572
+      internalID: -1507837561669477049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f743a4795fb0a3346a00215112c37ec4
+      internalID: -1434462639736572442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9cf9ad0a096d24d83b3fecabcab85a
+      internalID: -998998059115274104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570c34ff1c75f7d4d804b26f60ae92b0
+      internalID: 8895501754535276305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 39
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e95587a8ab19214483601a4b56ba5cb
+      internalID: 5835824807891706602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 37
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6299fd86685597f4093237a1c2e20838
+      internalID: -4320397380102260333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 34
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5b4f1ccaaeb75449deeade6d97ca18
+      internalID: -312736063868421669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058bc5763a70d754cb8a1c9e2168b753
+      internalID: 8371219142252035562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_8
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3ddd836537e8d4c9002d9a8ae71bf5
+      internalID: -2435111413962699947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_9
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 0
+        width: 9
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb72ec361a972604c9617085c41c9ab4
+      internalID: -3264949208757655229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_10
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 0
+        width: 9
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8368e66ac3bfd9b4c80254855f761100
+      internalID: -6022259885123758348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_11
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 9
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f781387123a3f14ca05b6ffe3cc0585
+      internalID: 3535522751539094780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_12
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 0
+        width: 11
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db51bbdcdd0590e4483c0c50c823ca28
+      internalID: -1314793125837414440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_13
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 0
+        width: 13
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fcfbc199fea51488180dae87aac6a2
+      internalID: -6143961827764422040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_14
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b3f8b09807c30409a71d2a05971779
+      internalID: -6504688167013111422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_15
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 0
+        width: 13
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039b35562c94e7c4bb92bfca69d0958b
+      internalID: 1504637027462004417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_16
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640565eca100cc44291e3835d1701123
+      internalID: -1611300931657078179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_17
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 0
+        width: 12
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0a095ea3db38043bfc9d7041d681c6
+      internalID: 2963446097941686652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_18
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 0
+        width: 13
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a046222138fd51849872edf148da8f92
+      internalID: -2808388099449332721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Blob-Assemble_19
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 0
+        width: 12
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd2f3246ca490a44947bf0cd3131e57
+      internalID: -4001467908104406243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a221d1307b4c35b4da0fb678d20ec54c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green-Blob-Assemble_0: -1507837561669477049
+      Green-Blob-Assemble_1: -1434462639736572442
+      Green-Blob-Assemble_10: -6022259885123758348
+      Green-Blob-Assemble_11: 3535522751539094780
+      Green-Blob-Assemble_12: -1314793125837414440
+      Green-Blob-Assemble_13: -6143961827764422040
+      Green-Blob-Assemble_14: -6504688167013111422
+      Green-Blob-Assemble_15: 1504637027462004417
+      Green-Blob-Assemble_16: -1611300931657078179
+      Green-Blob-Assemble_17: 2963446097941686652
+      Green-Blob-Assemble_18: -2808388099449332721
+      Green-Blob-Assemble_19: -4001467908104406243
+      Green-Blob-Assemble_2: -998998059115274104
+      Green-Blob-Assemble_3: 8895501754535276305
+      Green-Blob-Assemble_4: 5835824807891706602
+      Green-Blob-Assemble_5: -4320397380102260333
+      Green-Blob-Assemble_6: -312736063868421669
+      Green-Blob-Assemble_7: 8371219142252035562
+      Green-Blob-Assemble_8: -2435111413962699947
+      Green-Blob-Assemble_9: -3264949208757655229
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

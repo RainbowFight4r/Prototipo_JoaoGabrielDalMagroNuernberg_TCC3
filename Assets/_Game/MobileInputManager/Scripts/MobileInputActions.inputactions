@@ -1,0 +1,22 @@
+{
+    "name": "MobileInputActions",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "03462265-9511-4ca8-bc18-021d488b2d02",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "641674f7-ac4b-4835-9484-905a441a40e9",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}
